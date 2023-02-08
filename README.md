@@ -27,6 +27,13 @@ A multiuser platform where users can write a daily journal, and record daily act
 - Password Hashing
 - JSON Data
 - File/Image Uploading
+- Multer
 - MongoDB
 - Deploying
-- React.Js
+- React Router
+- Formik + Yup
+- Redux Toolkit
+- 
+- 
+- 
+
